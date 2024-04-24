@@ -1,0 +1,4 @@
+(1)>>git clone push data git to vscode https://github.com/M-Noman786/index.txt.git
+(2)>>and chng drictiry mean chng folder ya file use command (cd)
+(3)>> check file list (ls)
+($1)>> command use (git status)
