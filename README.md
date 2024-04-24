@@ -1,3 +1,3 @@
 # index.txt
 This is my first Git Repository
-Noman tahir
+M Noman tahir 
